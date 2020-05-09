@@ -30,4 +30,4 @@ We also visualize the spread of virus in the state using a network flow graph, w
 The following data sources were used - 
 
 - District-Wise Data: https://tnstopcorona.in
-- To get patient database: https://api.covid19india.org/
+- To get Patient Contact Database: https://api.covid19india.org/
