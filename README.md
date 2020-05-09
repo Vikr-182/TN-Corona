@@ -26,7 +26,7 @@ We also visualize the spread of virus in the state using a network flow graph, w
 
 ![Spread](./images/spread.png)
 
-### Data Sources
+## Data Sources
 The following data sources were used - 
 
 - District-Wise Data: https://tnstopcorona.in
